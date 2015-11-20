@@ -33,7 +33,10 @@ h1 small {
     padding-bottom: 25px;
     border-bottom-left-radius: 6px;
     border-bottom-right-radius: 6px;
-    margin-bottom: 15px;
+}
+
+#main .row {
+        margin-bottom: 15px;
 }
 
 .navbar-inverse {
